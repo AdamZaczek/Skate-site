@@ -12,7 +12,7 @@ const app = express()
 app.get('*', (req, res) => {
     res
       .status(200)
-      .json({message: 'ok'})
+      .json({message: 'Its all working yay'})
 })
 
 
@@ -31,6 +31,3 @@ spdy
       console.log('Listening on port: ' + port + '.')
     }
   })
-console.swdswdw.dwdw/wefefconsole.swdswdw.dwdw/wefef
-console.swdswdw.dwdw/wefef
-dwl.dwdw()

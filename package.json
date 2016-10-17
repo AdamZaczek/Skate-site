@@ -14,5 +14,8 @@
   "dependencies": {
     "express": "^4.14.0",
     "spdy": "^3.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
